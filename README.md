@@ -6,8 +6,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 # R Codes
 ## Packages
-Run DataAnalyticsFunctions to install packages required
+Run DataAnalyticsFunctions.R to install packages required
 ## Modeling
-See IBM Attrition Analysis
+See IBM Attrition Analysis.R
 ## Performance Analysis
-See PerformanceCurve
+See PerformanceCurve.R
