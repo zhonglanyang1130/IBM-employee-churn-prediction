@@ -3,3 +3,11 @@ In this data science project, supervised algorithms including Lasso, Logistic Re
 
 # Dataset
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+# R Codes
+## Packages
+Run DataAnalyticsFunctions to install packages required
+## Modeling
+See IBM Attrition Analysis
+## Performance Analysis
+See PerformanceCurve
